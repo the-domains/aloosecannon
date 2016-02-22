@@ -1,0 +1,14 @@
+layout_spectrum: 0.6953405
+color:
+  saturation: 0.9462366
+  lightness: 1
+  brandStrength: 0.8924731
+  brandColors:
+    - '#E0A35C'
+    - '#9A6539'
+    - '#6E3802'
+    - '#180B0F'
+    - '#374917'
+  rhythmicContrast: 0.9428571
+typography_spectrum: 0.453405
+name: aloosecannon
